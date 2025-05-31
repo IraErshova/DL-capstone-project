@@ -115,7 +115,7 @@ def load_predictor():
 
 if __name__ == '__main__':
     # Example usage
-    data_path = 'data/transactions_data.csv'  # Update with your data path
+    data_path = 'dataset/transactions_data.csv'  # Update with your data path
     recent_data = load_data(data_path)
     
     predictor = load_predictor()

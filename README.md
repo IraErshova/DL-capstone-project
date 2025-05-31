@@ -61,13 +61,10 @@ The application expects a CSV file with the following columns:
 - Use the provided data processing utilities in `data/processor.py` to prepare your data
 - The web interface is built with Flask and uses modern frontend technologies
 
-## License
 
-[Your chosen license]
+## Dataset
 
-# Analyze of Financial Transactions
-
-Dataset[https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets?select=transactions_data.csv]
+https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets?select=transactions_data.csv
 
 ### Overview
 This comprehensive financial dataset combines transaction records, customer information, and card data from a banking institution, spanning across the 2010s decade. The dataset is designed for multiple analytical purposes, including synthetic fraud detection, customer behavior analysis, and expense forecasting.
