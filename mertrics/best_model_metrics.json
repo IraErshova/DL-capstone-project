@@ -1,0 +1,17 @@
+{
+    "model_name": "best_model",
+    "expense_metrics": {
+        "MAE": 140.8091280634303,
+        "MSE": 39476.24254184198,
+        "RMSE": 198.68629178139588,
+        "R2_Score": 0.21262131889144664,
+        "MAPE": 59.963775814970866,
+        "Direction_Accuracy": 69.15428443749302,
+        "Prediction_Std": 196.94941707710151,
+        "Residuals_Normal": "False",
+        "Mean_Actual": 366.1440281501341,
+        "Mean_Predicted": "392.35794",
+        "Correlation": 0.4778508523115154
+    },
+    "prediction_accuracy_grade": "F"
+}

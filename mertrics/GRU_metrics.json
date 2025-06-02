@@ -1,0 +1,17 @@
+{
+    "model_name": "GRU",
+    "expense_metrics": {
+        "MAE": 125.8185245395282,
+        "MSE": 33891.74329028494,
+        "RMSE": 184.09710288400777,
+        "R2_Score": 0.3240076964242642,
+        "MAPE": 48.91928282122765,
+        "Direction_Accuracy": 70.71835549100659,
+        "Prediction_Std": 184.04277627583448,
+        "Residuals_Normal": "False",
+        "Mean_Actual": 366.1440281501341,
+        "Mean_Predicted": "361.6719",
+        "Correlation": 0.5708811579441979
+    },
+    "prediction_accuracy_grade": "F"
+}

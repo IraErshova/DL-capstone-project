@@ -1,0 +1,17 @@
+{
+    "model_name": "LSTM",
+    "expense_metrics": {
+        "MAE": 118.6611473450989,
+        "MSE": 28885.944788634086,
+        "RMSE": 169.95865611563914,
+        "R2_Score": 0.4238515206673482,
+        "MAPE": 45.165384196948224,
+        "Direction_Accuracy": 72.13719137526533,
+        "Prediction_Std": 169.38044105603714,
+        "Residuals_Normal": "False",
+        "Mean_Actual": 366.1440281501341,
+        "Mean_Predicted": "352.1365",
+        "Correlation": 0.6604160243325187
+    },
+    "prediction_accuracy_grade": "F"
+}
