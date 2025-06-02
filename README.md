@@ -5,10 +5,10 @@ This application provides financial transaction analysis, forecasting, and recom
 ## Features
 
 - CSV file upload for transaction data
-- Transaction analysis and visualization
-- Expense and income forecasting
-- Personalized financial recommendations
-- Cash flow prediction
+- Expense forecasting
+- Transaction analysis and visualization # TODO
+- Personalized financial recommendations # TODO
+- Cash flow prediction # TODO
 
 ## Project Structure
 
@@ -18,8 +18,8 @@ This application provides financial transaction analysis, forecasting, and recom
 │   ├── templates/         # HTML templates
 │   └── routes.py          # Web routes
 ├── model/                 # Machine learning model directory
-│   ├── train.py          # Model training script
-│   └── predict.py        # Prediction functions
+│   ├── capstone-models.ipynb   # Model training script
+│   └── forecast.py        # Prediction functions
 ├── data/                  # Data processing and utilities
 │   └── processor.py      # Data processing functions
 ├── requirements.txt       # Python dependencies
@@ -46,21 +46,10 @@ python run.py
 
 4. Open your browser and navigate to `http://localhost:5000`
 
-## Data Format
-
-The application expects a CSV file with the following columns:
-- Date
-- Description
-- Amount
-- Category
-- Transaction Type (Income/Expense)
-
 ## Development
 
-- The `model/` directory is where you'll develop and train your machine learning model
-- Use the provided data processing utilities in `data/processor.py` to prepare your data
-- The web interface is built with Flask and uses modern frontend technologies
-
+- The `model/` directory is where was developed and trained machine learning model
+- The web interface is built with Flask
 
 ## Dataset
 
